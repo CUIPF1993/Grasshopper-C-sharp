@@ -1,5 +1,0 @@
-E:\MyMeshPipe\MyMeshPipe\bin\MyMeshPipe.dll
-E:\MyMeshPipe\MyMeshPipe\bin\MyMeshPipe.pdb
-E:\MyMeshPipe\MyMeshPipe\obj\Debug64\MyMeshPipe.csprojResolveAssemblyReference.cache
-E:\MyMeshPipe\MyMeshPipe\obj\Debug64\MyMeshPipe.dll
-E:\MyMeshPipe\MyMeshPipe\obj\Debug64\MyMeshPipe.pdb
