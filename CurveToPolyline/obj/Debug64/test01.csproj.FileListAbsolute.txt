@@ -1,0 +1,7 @@
+E:\test01\bin\test01.dll
+E:\test01\bin\test01.pdb
+E:\test01\obj\Debug64\test01.csprojResolveAssemblyReference.cache
+E:\test01\obj\Debug64\test01.dll
+E:\test01\obj\Debug64\test01.pdb
+E:\test01\obj\Debug64\test01.Properties.Resources.resources
+E:\test01\obj\Debug64\test01.csproj.GenerateResource.Cache
