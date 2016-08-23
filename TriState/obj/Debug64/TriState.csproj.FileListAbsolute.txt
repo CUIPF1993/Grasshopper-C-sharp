@@ -1,0 +1,5 @@
+E:\TriState\obj\Debug64\TriState.csprojResolveAssemblyReference.cache
+E:\TriState\bin\TriState.dll
+E:\TriState\bin\TriState.pdb
+E:\TriState\obj\Debug64\TriState.dll
+E:\TriState\obj\Debug64\TriState.pdb
